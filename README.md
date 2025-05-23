@@ -16,8 +16,5 @@ chmod +x connect-remote-agent.sh start-agent.sh
 
 ### lancer en fonction du besoin
 ./start-agent.sh
-./status-agent.sh
-./stop-agent.sh
-
-
+./connect-remote-agent.sh
 ```
